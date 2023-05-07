@@ -1,0 +1,17 @@
+.btn {
+	color: #fff;
+	border: none;
+	padding: 10px 20px;
+	border-radius: 8px;
+	margin: 6px;
+	cursor: pointer;
+}
+.btn-success {
+	background: #57ae4f;
+}
+.btn-warning {
+	background: #fb2d68;
+}
+.btn-primary {
+	background: #4fae9e;
+}
